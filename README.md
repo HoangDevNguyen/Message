@@ -9,7 +9,7 @@ Message là một ứng dụng nhắn tin thời gian thực được xây dựn
 
 ## Giới thiệu
 
-Message giúp bạn gửi tin nhắn tức thì, chia sẻ hình ảnh và video. Ứng dụng sử dụng Firebase để cung cấp khả năng lưu trữ và đồng bộ hóa dữ liệu thời gian thực, đảm bảo tất cả các cuộc trò chuyện của bạn được bảo mật và luôn được đồng bộ hóa trên mọi thiết bị.
+Message giúp bạn gửi tin nhắn tức thì, chia sẻ hình ảnh và video. Ứng dụng sử dụng Firebase để cung cấp khả năng lưu trữ và đồng bộ hóa dữ liệu thời gian thực và luôn được đồng bộ hóa trên mọi thiết bị.
 
 ## Tính năng
 
